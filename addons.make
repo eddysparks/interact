@@ -1,0 +1,4 @@
+ofxOsc
+ofxOpenCv
+ofxXmlSettings
+ofxImageSequence
